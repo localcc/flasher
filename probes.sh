@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export SECOND="2e8a:000c:C3F07411CDA19AFA"
+export FIRST="2e8a:000c:0BF8ED626E7C56C3"
